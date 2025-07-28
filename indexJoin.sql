@@ -49,3 +49,9 @@ from emp;
 select count(*)
 from SALGRADE;
 
+select count(*)
+from DEPARTMENTS;
+
+select count(*)
+from EMPLOYEES
+
